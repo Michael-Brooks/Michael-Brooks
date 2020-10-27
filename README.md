@@ -1,3 +1,5 @@
+![Michael Brooks' Github Stats: A+](https://res.cloudinary.com/dxkhwdsvm/image/upload/v1603802954/Screenshot_2020-10-27_124814_asrgwx.png)
+
 ### Hi there 👋
 
 ## I'm a full-stack PHP developer working in Newton Abbot, UK
