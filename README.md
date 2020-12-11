@@ -1,4 +1,4 @@
-![Michael Brooks' Github Stats: A+](https://res.cloudinary.com/dxkhwdsvm/image/upload/v1603802954/Screenshot_2020-10-27_124814_asrgwx.png)
+[![Michael Brooks' github stats](https://github-readme-stats.vercel.app/api?username=Michael-Brooks&show_icons=true&theme=synthwave)](https://github.com/Michael-Brooks)
 
 ### Hi there 👋
 
